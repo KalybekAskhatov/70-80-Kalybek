@@ -37,28 +37,28 @@ const AddProducts = () => {
 
             <TextField 
             type='text' 
-            placeholder="LastName" 
+            placeholder="Type" 
             className='w-25' 
             value={typeValue} 
             onChange={(e)=> setTypeValue(e.target.value)}/>
 
             <TextField 
             type='text' 
-            placeholder="age" 
+            placeholder="description" 
             className='w-25' 
             value={descrValue} 
             onChange={(e)=> setDescrValue(e.target.value)}/>
 
             <TextField
             type='text' 
-            placeholder="age" 
+            placeholder="price" 
             className='w-25' 
             value={priceValue} 
             onChange={(e)=> setPriceValue(e.target.value)}/>
 
             <TextField 
             type='text' 
-            placeholder="age" 
+            placeholder="img" 
             className='w-25' 
             value={imgValue} 
             onChange={(e)=> setImgValue(e.target.value)}/>

@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "111",
+      "type": "111",
+      "descr": "111",
+      "price": "111",
+      "img": "1111",
+      "id": 1
+    },
+    {
+      "name": "dffd",
+      "type": "dffdfd",
+      "descr": "ggdgdg",
+      "price": "dgdggf",
+      "img": "gfdddf",
+      "id": 2
+    },
+    {
+      "name": "dssddsdsfsdfsdfsdf",
+      "type": "dssfsf",
+      "descr": "sdsdfsdfsd",
+      "price": "fsdfsdfsdf",
+      "img": "sfsfdsfsdf",
+      "id": 3
+    },
+    {
+      "name": "qqq",
+      "type": "qqqq",
+      "descr": "qqqqq",
+      "price": "qqqqq",
+      "img": "qqqqq",
+      "id": 4
+    }
+  ]
+}
